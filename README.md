@@ -1,6 +1,6 @@
 # Get-free-cloud-computer-ip-Virus
 
-[中文/Chinese](/chinese/read.md)
+[中文/Chinese](/chinese/README.md)
 
 ## This BAT virus is divided into the first and second editions:
 * The first edition will change Administrator to cao (Chinese swear word) fuck**
