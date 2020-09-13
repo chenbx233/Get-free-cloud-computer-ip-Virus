@@ -15,5 +15,5 @@ The first edition will change Administrator to cao (Chinese swear word) fuck
 If you test in a virtual environment, you only need to change txt to bat to run
 
 download:
-(The first edition)[/Get free cloud computer ip-virus.txt]
-(The second version/definite version)[Get free cloud computer ip positive version-virus.txt]
+(The first edition)["/Get free cloud computer ip-virus.txt"]
+(The second version/definite version)["Get free cloud computer ip positive version-virus.txt"]
